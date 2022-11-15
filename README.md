@@ -18,12 +18,6 @@
 | `MaxWidth`  | `int`    | Максимальная ширина изображения в символах|
 | `Brightness`| `float`  | Множитель яркости изображения|
 
-
-## Authors
-
-- [@Sinus44](https://www.github.com/Sinus44)
-
-
 ## Demo
 
 ![](https://raw.githubusercontent.com/Sinus44/consoleImage/main/MathOut.png)
