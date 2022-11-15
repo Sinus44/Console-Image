@@ -7,7 +7,7 @@
 
 #### Пример запуска
 
-```http
+```batch
   python {ScriptName} {ImageName} {MaxWidth} {Brightness}
 ```
 
