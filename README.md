@@ -8,7 +8,7 @@
 #### Пример запуска
 
 ```http
-  python <ScriptName/PATH> <ImageName/PATH> <MaxWidth> <Brightness>
+  python {ScriptName/PATH} {ImageName} {MaxWidth} {Brightness}
 ```
 
 | Parameter   | Type     | Description                |
